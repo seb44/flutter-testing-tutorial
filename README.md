@@ -75,4 +75,4 @@ Flutter has 3 types of tests.
 ## Purpose
 
 Through a flutter movie application, this repository is the code source of my [codelab](https://codelabs-bwnyasse-net.web.app/flutter_testing_tutorial.html#0) that provides a step by step approach for testing your flutter application.
-
+ 
